@@ -19,14 +19,14 @@ body {
   align-items: center;
 }
 .container > img {
-    width: 15%;
-    height: 15%;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     animation: cloud-anim 60s infinite linear;
     z-index: 10;
     position: absolute;
     left: 0%;
-    top: 20%;
+    top: 10%;
 }
 .sun {
   width: 120px;
